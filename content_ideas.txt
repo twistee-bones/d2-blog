@@ -1,6 +1,19 @@
 - What is an 'intermediate player'?
   - General game knowledge vs knowledge specific to a single piece of content
 
+- Evaluating guns
+  - Stats and their meaning
+  - weapon archetypes and what they mean
+  - how to read light.gg
+    - pvp vs pve perks
+    - popularity ranking, and it's downfalls
+  
+
+- How to evaluate armor
+  - Stats and their meaning
+  - Stat splits explained
+  - base totals, spikes, and dump stats
+
 - Builds
   - The harder the content, the more specialized your build may need to get
   - Primary, Special, Heavy: get value out of ammo economy
