@@ -26,5 +26,6 @@
     - Consider cooldowns, and how integral an ability is to how you want to run
   - Exotics and guns
   - Armor, stat tiers, and mods
+  - artifact mods
   - optional: cosmetics :)
   - Testing and tweaking
