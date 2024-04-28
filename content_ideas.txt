@@ -9,6 +9,8 @@
         - matters for both positioning, and timing attacks (missing rockets on overloads)
       - enemy attacks (ogres push you, psions launch you up high, etc)
       - ammo econ
+        - mods
+        - finishers
       - environment factors (explosive barrels, heavy crates, etc)
 
 - Evaluating guns
