@@ -1,1 +1,27 @@
 
+- What is an 'intermediate player'?
+  - General game knowledge vs knowledge specific to a single piece of content
+
+- Builds
+  - The harder the content, the more specialized your build may need to get
+  - Primary, Special, Heavy: get value out of ammo economy
+
+- Build crafting
+  - Gameplay loop: what content am I running, and how to I want to run it?
+    - general content style: ad dense vs moving fast vs defend a location etc
+    - fireteam considerations
+      - Solo, or with a team?
+        - What's everyone else running, and how comfortable is everyone with this level of content
+      - Rock, paper, scissors: survivability, CC, damage
+    - Champions
+    - Damage phase
+  - Subclass
+    - Consider what each is good at, tie back to "how do I want to run it"
+  - Aspects
+  - Fragments
+  - Super, class ability, jump, melee, grenade
+    - Consider personal playstyle
+    - Consider cooldowns, and how integral an ability is to how you want to run
+  - Exotics and guns
+  - Armor, stat tiers, and mods
+  - Testing and tweaking
