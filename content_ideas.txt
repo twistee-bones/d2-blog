@@ -10,6 +10,7 @@
   - Gameplay loop: what content am I running, and how to I want to run it?
     - general content style: ad dense vs moving fast vs defend a location etc
       - Any specific mechanics that might need to be addressed (quickly melting knights in Kingsfall: Totem low-man)
+      - surges, threats, shields, loadout-swaps, etc
     - fireteam considerations
       - Solo, or with a team?
         - What's everyone else running, and how comfortable is everyone with this level of content
