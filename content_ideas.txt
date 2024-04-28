@@ -1,5 +1,9 @@
 - What is an 'intermediate player'?
   - General game knowledge vs knowledge specific to a single piece of content
+    - running content solo forces learning more in depth knowledge
+      - how to handle dregs vs marauders vs servitors vs champions
+      - Threat analysis
+      - playing ranges
 
 - Evaluating guns
   - Stats and their meaning
