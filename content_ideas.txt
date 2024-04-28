@@ -4,6 +4,12 @@
       - how to handle dregs vs marauders vs servitors vs champions
       - Threat analysis
       - playing ranges
+      - ad spawn locations
+      - enemy movement patterns
+        - matters for both positioning, and timing attacks (missing rockets on overloads)
+      - enemy attacks (ogres push you, psions launch you up high, etc)
+      - ammo econ
+      - environment factors (explosive barrels, heavy crates, etc)
 
 - Evaluating guns
   - Stats and their meaning
