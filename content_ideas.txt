@@ -10,7 +10,7 @@
       - enemy attacks (ogres push you, psions launch you up high, etc)
       - ammo econ
         - mods
-        - finishers
+        - finishers to save ammo
       - environment factors (explosive barrels, heavy crates, etc)
 
 - Evaluating guns
